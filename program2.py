@@ -1,0 +1,7 @@
+#tuple operations(is immutable)
+x=(1,2,3)
+y=(2,)
+print(x)
+print(x[1:])
+print(y)
+print(x[-1:-4:-1])
